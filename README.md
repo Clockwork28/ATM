@@ -2,7 +2,13 @@
 A console application that simulates an ATM made as a learning project.
 <br><i>Please note - all of the code was written solely by me and thus is an accurate representation of my current skills.</i>
 
+
+
 **Upon login you can acces one of two interfaces: Customer or Admin**
+
+Customer Test Credentials:
+<br>Login: *qwerty*
+<br>PIN: *1234*
 
 Customer Functionality:
 
@@ -10,6 +16,10 @@ Customer Functionality:
 2. Withdraw Cash (up to a daily limit of 2000)
 3. Transfer Cash to a different customer
 4. Check your balance
+
+Admin Test Credentials:
+<br>Login: *admin*
+<br>PIN: *0987*
 
 Admin Functionality:
 1. Create a new account
