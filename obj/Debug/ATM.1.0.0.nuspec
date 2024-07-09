@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ATM</id>
+    <version>1.0.0</version>
+    <authors>ATM</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="6c70334c8e59335475ef59ad316f90913277385c" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Montaż Mangusta\Desktop\IT CAREER\ATM\bin\Debug\net6.0\ATM.runtimeconfig.json" target="lib\net6.0\ATM.runtimeconfig.json" />
+    <file src="C:\Users\Montaż Mangusta\Desktop\IT CAREER\ATM\bin\Debug\net6.0\ATM.dll" target="lib\net6.0\ATM.dll" />
+  </files>
+</package>
